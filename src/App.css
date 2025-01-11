@@ -1,0 +1,26 @@
+*{
+  padding: 0%;
+  margin: 0%;
+}
+
+
+.navbar{
+background-color: rgba(0, 0, 0, 0.644) ;
+width: 100%;
+font-size: 2rem;
+color: white;
+}
+
+
+.btn-mode{
+ width: 100%;
+}
+.navbar-brand{
+color: white;  
+}
+.nav-item{
+  font-size: 1rem;
+position: relative;
+margin-top: 0.6rem;
+
+}
